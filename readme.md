@@ -1,4 +1,4 @@
-# ShopIT E-commerce Project
+# ShopIT E-commerce Project (By ghulamabbas2)
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
